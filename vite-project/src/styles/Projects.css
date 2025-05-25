@@ -52,34 +52,35 @@
 }
 @media(max-width:400px){
     .project{
-        width:1605px;
+        width:1665px;
+        margin-left: -70px;
     }
 }
 @media(max-width:365px){
     .project{
-        width:1460px;
+        width:1510px;
     }
 .project1,.project2{
-    margin-left: 100px;
+    margin-left: 150px;
 }
 .desc-1{
-    margin-left: 100px;
+    margin-left: 150px;
 }
 .desc-2{
-    margin-left: 270px;
+    margin-left: 300px;
 }
 }
 @media(max-width:350px){
     .project{
-        width:1380px;
+        width:1440px;
     }
 .project1,.project2{
-    margin-left: 100px;
+    margin-left: 130px;
 }
 .desc-1{
-    margin-left: 100px;
+    margin-left: 130px;
 }
 .desc-2{
-    margin-left: 270px;
+    margin-left: 300px;
 }
 }
