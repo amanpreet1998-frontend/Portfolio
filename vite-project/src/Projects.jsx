@@ -19,15 +19,15 @@ const Projects=()=>{
           </div>
           <div className='project-container'>
             <div className='project-container-1'>
-            <img data-aos="flip-left"
+           <Link to='https://food-siteeee.netlify.app'>  <img data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
-     data-aos-duration="2000"className='project1' src={project1}/>
+     data-aos-duration="2000"className='project1' src={project1}/></Link> 
             <h2 className='desc-1'>Urban Food - food ordering website</h2>
             </div>
             <div className='project-container-1'>
-            <img data-aos="flip-left"
+          <Link to='https://amanpreet1998-frontend.github.io/Portfolio'>   <img data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
-     data-aos-duration="2000"className='project2' src={project2}/>
+     data-aos-duration="2000"className='project2' src={project2}/></Link>
             <h2 className='desc-2'>Portfolio</h2>
             </div>
           </div>
